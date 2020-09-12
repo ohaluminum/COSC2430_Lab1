@@ -155,6 +155,9 @@
     <Text Include="ans3.txt" />
     <Text Include="input1.txt" />
     <Text Include="input2.txt" />
+    <Text Include="output1.txt" />
+    <Text Include="output2.txt" />
+    <Text Include="output3.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="test.sh" />
